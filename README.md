@@ -34,3 +34,8 @@ Manage XML document through a simple fluent API.
 Simple API to expose your classes through JMX
 
 => [Documentation](http://code.mycila.com/jmx)
+
+
+### Mycila Parent POM for Maven ###
+
+=> [Documentation](http://code.mycila.com/pom)
