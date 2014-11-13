@@ -1,5 +1,12 @@
 ## Mycila Open-Source projects ##
 
+About Me:
+* <a href="http://mathieu.carbou.me" target="_blank">Profile</a> page</p></div>
+* <a href="http://blog.mathieu.carbou.me" target="_blank">Casual</a> Blogger</p></div>
+* <a href="http://photo.mathieu.carbou.me" target="_blank">Hobby</a> Photographer,<br>
+* <a href="http://guestful.com" target="_blank">Guestful</a>
+* <a href="http://montreal-jug.org" target="_blank">Montreal JUG</a> Leader,<br>
+* <a href="http://mycila.com" target="_blank">Mycila</a> Founder,<br>
 
 ### License Maven Plugin ###
 
