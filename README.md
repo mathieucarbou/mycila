@@ -11,6 +11,7 @@ Hi, I am Mathieu Carbou, a Software Developer at Terracotta and hobby photograph
 * <a href="http://montreal-jug.org" target="_blank">Montreal Java User Group</a> Leader
 * <a href="http://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4Kids Québec</a> Leader
 * <a href="http://mycila.com" target="_blank">Mycila</a> Founder
+* <a href="https://github.com/mathieucarbou/" target="_blank">Github</a> personnal page
 
 ### License Maven Plugin ###
 
