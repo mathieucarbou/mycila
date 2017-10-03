@@ -1,0 +1,8 @@
+title: Mycila
+description: Open-Source projects
+google_analytics: UA-5669052-12
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
