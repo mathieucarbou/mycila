@@ -4,13 +4,13 @@ About Me:
 
 Hi, I am Mathieu Carbou, a Software Developer at Terracotta and hobby photographer.
 
-* <a href="https://www.linkedin.com/in/mathieucarbou/" target="_blank">Profile</a> page</p></div>
-* <a href="http://blog.mathieu.carbou.me" target="_blank">Casual</a> Blogger</p></div>
-* <a href="http://www.mathieu.photography" target="_blank">Photography</a> work,<br>
-* <a href="http://terracotta.org" target="_blank">Terracotta</a> Software Developer,<br>
-* <a href="http://montreal-jug.org" target="_blank">Montreal Java User Group</a> Leader,<br>
-* <a href="http://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4Kids Québec</a> Leader,<br>
-* <a href="http://mycila.com" target="_blank">Mycila</a> Founder,<br>
+* <a href="https://www.linkedin.com/in/mathieucarbou/" target="_blank">Profile</a> page
+* <a href="http://blog.mathieu.carbou.me" target="_blank">Casual</a> Blogger
+* <a href="http://www.mathieu.photography" target="_blank">Photography</a> work
+* <a href="http://terracotta.org" target="_blank">Terracotta</a> Software Developer
+* <a href="http://montreal-jug.org" target="_blank">Montreal Java User Group</a> Leader
+* <a href="http://www.devoxx4kids.org/quebec/" target="_blank">Devoxx4Kids Québec</a> Leader
+* <a href="http://mycila.com" target="_blank">Mycila</a> Founder
 
 ### License Maven Plugin ###
 
