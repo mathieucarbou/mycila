@@ -1,8 +1,8 @@
-## Mycila Open-Source projects ##
+## Open-Source projects ##
 
 About Me:
 
-Hi, I am Mathieu Carbou, a Software Developer at Terracotta and hobby photographer.
+Hi, I am Mathieu Carbou, a Lead Software Engineer at Terracotta and hobby photographer.
 
 * <a href="https://www.linkedin.com/in/mathieucarbou/" target="_blank">Profile</a> page
 * <a href="http://blog.mathieu.carbou.me" target="_blank">Casual</a> Blogger
