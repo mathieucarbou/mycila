@@ -1,6 +1,4 @@
-## Open-Source projects ##
-
-About Me:
+### About Me ###
 
 Hi, I am Mathieu Carbou, a Lead Software Engineer at Terracotta and hobby photographer.
 
