@@ -47,4 +47,4 @@ Simple API to expose your classes through JMX
 
 ### Parent POM for Maven ###
 
-=> [Documentation](https://code.mathieu.photography/pom)
+=> [Documentation](https://code.mathieu.photography/parent-pom)
