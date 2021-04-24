@@ -15,37 +15,37 @@ Hi, I am Mathieu Carbou, a Lead Software Engineer at Terracotta and hobby photog
 
 Plugin which helps managing license headers in your project source files
 
-=> [Documentation](http://code.mycila.com/license-maven-plugin)
+=> [Documentation](https://code.mathieu.photography/license-maven-plugin)
 
 
 ### Google Guice Extensions ###
 
 Extensions to the Google Guice framework (JSR-250 and others)
 
-=> [Documentation](http://code.mycila.com/guice)
+=> [Documentation](https://code.mathieu.photography/guice)
 
 
 ### Pub Sub ###
 
 In-JVM Event API
 
-=> [Documentation](http://code.mycila.com/pubsub)
+=> [Documentation](https://code.mathieu.photography/pubsub)
 
 
 ### XML Tool ###
 
 Manage XML document through a simple fluent API.
 
-=> [Documentation](http://code.mycila.com/xmltool)
+=> [Documentation](https://code.mathieu.photography/xmltool)
 
 
 ### JMX ###
 
 Simple API to expose your classes through JMX
 
-=> [Documentation](http://code.mycila.com/jmx)
+=> [Documentation](https://code.mathieu.photography/jmx)
 
 
 ### Mycila Parent POM for Maven ###
 
-=> [Documentation](http://code.mycila.com/pom)
+=> [Documentation](https://code.mathieu.photography/pom)
