@@ -55,37 +55,37 @@
 
 Plugin which helps managing license headers in your project source files
 
-=> [Documentation](https://code.mathieu.photography/license-maven-plugin)
+=> [Documentation](https://code.mathieu.carbou.me/license-maven-plugin)
 
 
 ### Google Guice Extensions ###
 
 Extensions to the Google Guice framework (JSR-250 and others)
 
-=> [Documentation](https://code.mathieu.photography/guice)
+=> [Documentation](https://code.mathieu.carbou.me/guice)
 
 
 ### Pub Sub ###
 
 In-JVM Event API
 
-=> [Documentation](https://code.mathieu.photography/pubsub)
+=> [Documentation](https://code.mathieu.carbou.me/pubsub)
 
 
 ### XML Tool ###
 
 Manage XML document through a simple fluent API.
 
-=> [Documentation](https://code.mathieu.photography/xmltool)
+=> [Documentation](https://code.mathieu.carbou.me/xmltool)
 
 
 ### JMX ###
 
 Simple API to expose your classes through JMX
 
-=> [Documentation](https://code.mathieu.photography/jmx)
+=> [Documentation](https://code.mathieu.carbou.me/jmx)
 
 
 ### Parent POM for Maven ###
 
-=> [Documentation](https://code.mathieu.photography/parent-pom)
+=> [Documentation](https://code.mathieu.carbou.me/parent-pom)
