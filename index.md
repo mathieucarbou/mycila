@@ -15,8 +15,8 @@
 		</a>
 	</li>
 	<li>
-		<a href="https://code.mathieu.carbou.me">
-			<img src="https://img.shields.io/badge/github-OSS%20projects-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
+		<a href="https://mycila.carbou.me">
+			<img src="https://img.shields.io/badge/github-mycila-211F1F?logo=github&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
@@ -30,8 +30,8 @@
 		</a>
 	</li>
 	<li>
-		<a href="https://blog.mathieu.carbou.me/">
-			<img src="https://img.shields.io/badge/tumblr-blog.mathieu.carbou.me-314d69?logo=tumblr&amp;logoColor=white&amp;style=flat-square" />
+		<a href="https://mathieu.carbou.me/">
+			<img src="https://img.shields.io/badge/tumblr-mathieu.carbou.me-314d69?logo=tumblr&amp;logoColor=white&amp;style=flat-square" />
 		</a>
 	</li>
 	<li>
