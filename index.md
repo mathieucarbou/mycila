@@ -55,37 +55,37 @@
 
 Plugin which helps managing license headers in your project source files
 
-=> [Documentation](https://code.mathieu.carbou.me/license-maven-plugin)
+=> [Documentation](https://mycila.carbou.me/license-maven-plugin)
 
 
 ### Google Guice Extensions ###
 
 Extensions to the Google Guice framework (JSR-250 and others)
 
-=> [Documentation](https://code.mathieu.carbou.me/guice)
+=> [Documentation](https://mycila.carbou.me/guice)
 
 
 ### Pub Sub ###
 
 In-JVM Event API
 
-=> [Documentation](https://code.mathieu.carbou.me/pubsub)
+=> [Documentation](https://mycila.carbou.me/pubsub)
 
 
 ### XML Tool ###
 
 Manage XML document through a simple fluent API.
 
-=> [Documentation](https://code.mathieu.carbou.me/xmltool)
+=> [Documentation](https://mycila.carbou.me/xmltool)
 
 
 ### JMX ###
 
 Simple API to expose your classes through JMX
 
-=> [Documentation](https://code.mathieu.carbou.me/jmx)
+=> [Documentation](https://mycila.carbou.me/jmx)
 
 
 ### Parent POM for Maven ###
 
-=> [Documentation](https://code.mathieu.carbou.me/parent-pom)
+=> [Documentation](https://mycila.carbou.me/parent-pom)
